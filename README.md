@@ -1,6 +1,6 @@
 # WCF
 
-Project: Creating a WCF Service - Tutorial
+Project 1: Creating a WCF Service - Tutorial
 HelloService
 Clients\HelloWebClient
 Clients\HelloWindowsClient
@@ -16,8 +16,13 @@ NOTE:
 - Other client using Binary Message format over TCP Protocol - Client Window Application
 - Run VisualStudio as Administrator. Since,  binding to a tcp port requires administrative privileges.
 
+--------------------------------------------------------------------------------------
 
-Project: WCF DataContract and DataMember
+Project 2: WCF DataContract and DataMember
+
+Tutorial done from Link:
+https://www.youtube.com/watch?v=RPgTKzSGcKY&index=6&list=PL6n9fhu94yhVxEyaRMaMN_-qnDdNVGsL1
+
  - if you want to have explicit control on what fiels and properties get serialized the use DataContract and DataMember.
  - WCF service using ADO.Net to access database Sample, table tblEmployee for read and write operation
  - WebForm client to read and write database using WCF service
