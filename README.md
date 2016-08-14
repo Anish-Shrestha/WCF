@@ -15,5 +15,12 @@ NOTE:
 - One client using XML Message format over HTTP Protocol - Client Web Application
 - Other client using Binary Message format over TCP Protocol - Client Window Application
 - Run VisualStudio as Administrator. Since,  binding to a tcp port requires administrative privileges.
+
+
+Project: WCF DataContract and DataMember
+ - if you want to have explicit control on what fiels and properties get serialized the use DataContract and DataMember.
+ - WCF service using ADO.Net to access database Sample, table tblEmployee for read and write operation
+ - WebForm client to read and write database using WCF service
+ - WCF hosted on console application.
  
 
