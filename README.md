@@ -1,4 +1,5 @@
-# WCF
+# WCF – Windows Communication Foundation
+WCF, Microsoft platform for building distributed and interoperable application.
 
 Project 1: Creating a WCF Service - Tutorial
 HelloService
